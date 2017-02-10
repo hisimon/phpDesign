@@ -8,7 +8,7 @@
  * 所以做个适配器logToCSVAdapter.php
  * 增加两个方法getErrorNumber和getErrorText
  * @version 2014-3-7
- * @author huangm <drawhm@gmail.com>
+ * @author simon <drawhm@gmail.com>
  */
 
 include_once 'errorObject.php';

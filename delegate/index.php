@@ -3,7 +3,7 @@
 /**
  * 委托模式：
  * 目的是消除潜在的、难以控制的语句，例如if/else等
- * @author huangmin <huangmin@3k.com>
+ * @author simon <drawi@163.com>
  * @version 2017-1-19
  */
 $type = 'pls';

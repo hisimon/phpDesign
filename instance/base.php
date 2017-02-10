@@ -3,7 +3,7 @@
 /**
  * 
  * @version 2014-3-13
- * @author huangm <drawhm@gmail.com>
+ * @author simon <drawhm@gmail.com>
  */
 class base{
     

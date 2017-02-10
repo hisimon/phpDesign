@@ -3,7 +3,7 @@
 /**
  * 原型设计模式：
  * 复制和克隆初始对象或原型，这种方式比创建新实例更为有效
- * @author huangmin <huangmin@3k.com>
+ * @author simon <drawi@163.com>
  * @version 2017-1-22
  */
 $id = 11;

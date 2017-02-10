@@ -3,7 +3,7 @@
 /**
  * 策略模式：
  * 策略模式帮助构建的对象不必自包含逻辑，而是能够根据需要利用其他对象中的算法
- * @author huangmin <huangmin@3k.com>
+ * @author simon <drawi@163.com>
  * @version 2017-1-22
  */
 
